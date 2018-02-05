@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Flukso bvba
+# This file is distributed under the same license as the Flukso package.
+# FIRST AUTHOR <bart@flukso.net>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flukso 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-03 13:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <bart@flukso.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../gas_probe.rst:5
+msgid "Gas Probe"
+msgstr "Gas Probe"
+
+#: ../../gas_probe.rst:7
+msgid ""
+"Gas meters equipped with an internal magnet fixed to the last counter "
+"digit can be read out with the FLS02-F2 gas probe. Look for a slot on the"
+" bottom of the protruding counter element."
+msgstr ""
+"Gasmeters die uitgerust zijn met een aan de laatste digit bevestigde magneet "
+"kunnen met onze FLS02-F2 gas probe worden uitgelezen. Zoek naar de uitsparing "
+"onderaan het uitstekende telwerk."
+
+#: ../../gas_probe.rst:15
+msgid ""
+"Insert the rectangular head of the probe into the slot. The probe's laser"
+" marks should face upwards. For maximum sensitivity, the probe should be "
+"pulled to the front right of the cavity"
+msgstr ""
+"Plaats de rechthoekige kop van de probe in de uitsparing. De laser markering "
+"van de probe dient naar boven te wijzen. Om een maximale gevoeligheid te "
+"bekomen dient de probe zich vooraan rechts in de holte te bevinden."
+
+#: ../../gas_probe.rst:23
+msgid "Secure the probe using either a plastic cable tie or some gummy adhesive."
+msgstr "Bevestig de probe met een plastic kabelbinder of wat kneedlijm."
+
+#: ../../gas_probe.rst:29
+msgid ""
+"Configure the FLM pulse port's meter constant to 10L per pulse for this "
+"specific type of gas meter."
+msgstr ""
+"Stel de meterconstante van de FLM puls poort in op 10L per puls voor deze "
+"specifieke gasmeter."
+

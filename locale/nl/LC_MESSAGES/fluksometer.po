@@ -1,0 +1,267 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Flukso bvba
+# This file is distributed under the same license as the Flukso package.
+# FIRST AUTHOR <bart@flukso.net>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flukso 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-03 13:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <bart@flukso.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../fluksometer.rst:3
+msgid "Fluksometer"
+msgstr "Fluksometer"
+
+#: ../../fluksometer.rst:5
+msgid ""
+"We will in turn introduce the Fluksometer v3's ports, button and LEDs. "
+"The Fluksometer v3 is currently available in a single 'E' version, a.k.a."
+" FLM03E."
+msgstr ""
+"We beschrijven achtereenvolgens de poorten, knop en LEDs van de Fluksometer "
+"v3. De Fluksometer v3 is momenteel enkel verkrijgbaar in de 'E' versie, die "
+"ook wordt aangeduid als FLM03E."
+
+#: ../../fluksometer.rst:9
+msgid "ports"
+msgstr "poorten"
+
+#: ../../fluksometer.rst:28
+msgid "sensor ports"
+msgstr "sensor poorten"
+
+#: ../../fluksometer.rst:16
+msgid ""
+"The screw terminal contains fourteen inputs. A port on the screw terminal"
+" is defined as a pair of adjacent inputs. The port numbers are printed on"
+" the front of the enclosure for easy reference, with the polarity denoted"
+" by + and -."
+msgstr ""
+"De schroef terminal heeft veertien ingangen. Een poort op de schoef teminal "
+"wordt gedefinieerd door een paar naburige ingangen. De poortnummers zijn op "
+"de voorzijde van de behuizing gedrukt voor makkelijke referentie met de "
+"polariteit aangeduid als + en -"
+
+#: ../../fluksometer.rst:21
+msgid ""
+"Ports #1 to #3 are current clamp ports that are tuned to accept Flukso "
+"FLS06-type split-core current clamps. Ports #4, #5 and #6 can be used for"
+" counting pulses. This includes support for the S0 interface (S0 is an "
+"open- collector interface standardized in DIN EN 62053-31) common to DIN-"
+"rail energy meters. Pulse ports accept Flukso water and gas probes as "
+"well. Port #7 can be hooked up to a NTA8130-compliant local P1 port found"
+" on Dutch smart meters. Contrary to the other ports, port #7 has its "
+"polarity indicated by the letters a (tx) and b (rx)."
+msgstr ""
+"Poorten #1 tot #3 zijn stroomklem poorten geschikt voor Flukso FLS06-type "
+"stroomklemmen met gesplitste magnetische kern. Poorten #4, #5 en #6 kunnen "
+"gebruikt worden voor het tellen van pulsen. Dit type poort ondersteunt de bij "
+"DIN-rail meters veel voorkomende S0 interface. S0 is een open-collector "
+"interface die gestandaardiseerd is onder DIN EN 62053-31. Pulse poorten "
+"aanvaarden ook Flukso water- en gasprobes. Poort #7 kan gekoppeld worden met "
+"een NTA8130-compatibele locale P1 poort aanwezig op Nederlandse slimme "
+"meters. In tegenstelling tot de andere poorten is de polariteit van poort #7 "
+"aangeduid met de letters a (tx) en b (rx)."
+
+#: ../../fluksometer.rst:30
+msgid ""
+"The current FLM03E firmware still lacks the P1 port decoder. This "
+"functionality will be added in a future release."
+msgstr ""
+"De P1 poort decoder ontbreekt nog in de huidige P1 firmware. Deze "
+"functionaliteit wordt in een toekomstige release toegevoegd."
+
+#: ../../fluksometer.rst:37
+msgid "ethernet"
+msgstr "ethernet"
+
+#: ../../fluksometer.rst:34
+msgid ""
+"Both ethernet ports support a 10baseT/100baseTx interface with auto- "
+"negotiation and auto MDI/MDI-X crossover detection. The right ethernet "
+"port (LAN) is meant for configuring the Fluksometer, while the left port "
+"(WAN) can be used as an internet uplink for the Fluksometer."
+msgstr ""
+"Beide ethernet poorten ondersteunen een 10baseT/100baseTx interface met "
+"auto-negotiation en auto MDI/MDI-X crossover detectie. Met de rechtse "
+"ethernet poort (LAN) kan de Fluksometer worden ingesteld. De linkse poort "
+"(WAN) dient als internet uplink voor de Fluksometer."
+
+#: ../../fluksometer.rst:42
+msgid "power port"
+msgstr "voedingspoort"
+
+#: ../../fluksometer.rst:40
+msgid ""
+"While the power port can still accepts a 9-15V DC voltage, we now ship "
+"all Fluksometer v3's with a 9V AC-AC adapter. The AC adapter acts as a "
+"power source to the FLM03 as well as the line voltage sensor."
+msgstr ""
+"Niettegenstaande de voedingspoort nog steeds een 9-15V DC spanning "
+"aanvaardt, verpakken we nu alle Fluksometer v3's standaard met een 9V "
+"AC-AC adapter. De AC-adapter doet dubbel dienst: enerzijds als voeding "
+"voor de FLM03, anderzijds als sensor voor de lijnspanning."
+
+#: ../../fluksometer.rst:47
+msgid "USB"
+msgstr "USB"
+
+#: ../../fluksometer.rst:45
+msgid ""
+"The USB 2.0 type A port on the right side of the Fluksometer can accept a"
+" 3G stick. This allows the FLM to make a direct internet connection, "
+"bypassing the LAN."
+msgstr ""
+"De USB 2.0 type A poort aan de rechterzijde van de Fluksometer kan met een "
+"3G stick worden uitgerust. Dit laat de FLM toe om zich direct met het "
+"internet te verbinden, zonder behoefte aan een LAN."
+
+#: ../../fluksometer.rst:54
+msgid "button"
+msgstr "knop"
+
+#: ../../fluksometer.rst:55
+msgid ""
+"The pushbutton has a dual function.  Which function will be triggered "
+"depends on how long the button is pressed.  Make sure the heartbeat LED "
+"is blinking before using the button."
+msgstr ""
+"De drukknop heeft een duale functie. Welke functie geactiveerd wordt "
+"hangt af van de duur waarmee de knop wordt ingedrukt. Zorg ervoor dat de "
+"hartslag LED knippert vooraleer de knop te gebruiken."
+
+#: ../../fluksometer.rst:61
+msgid "Restore networking defaults"
+msgstr "Herstel standaard netwerk instellingen"
+
+#: ../../fluksometer.rst:60
+msgid ""
+"If you press the button between 2 and 5 seconds, the Fluksometer will "
+"restore its default network settings."
+msgstr ""
+"Indien je de knop gedurende 2 tot 5 seconden ingedrukt houdt zal de "
+"Fluksometer z'n standaard netwerkinstellingen herstellen."
+
+#: ../../fluksometer.rst:67
+msgid "Restore firmware"
+msgstr "Herstel firmware"
+
+#: ../../fluksometer.rst:64
+msgid ""
+"Keep the button pressed for between 10 and 15 seconds to restore the "
+"Fluksometer’s stock firmware, which is then followed by a reboot. You "
+"will have to reconfigure all network and sensor settings. Connect to the "
+"local web interface after the heartbeat LED starts blinking again."
+msgstr ""
+"Houd de knop tussen de 10 en 15 seconden ingedrukt om de standaard firmware "
+"van de Fluksometer te herstellen, onmiddellijk gevolgd door een reboot. "
+"Je zal alle netwerk- en sensoropties vanaf nul moeten instellen. Laad de "
+"locale web interface nadat de hartslag LED opnieuw begint te knipperen."
+
+#: ../../fluksometer.rst:70
+msgid "LEDs"
+msgstr "LEDs"
+
+#: ../../fluksometer.rst:71
+msgid ""
+"The Fluksometer has six red LEDs on the top of its enclosure. Together "
+"these LEDs provide an overview of the Fluksometer’s internal functioning,"
+" the status of its network interfaces and its ability to communicate with"
+" the Flukso server. From left to right, these LEDs are:"
+msgstr ""
+"De Fluksometer heeft zes rode LEDs bovenop z'n behuizing. Samen bieden deze "
+"LEDs een overzicht van het intern functioneren van de Fluksometer, de status "
+"van de netwerk interfaces en de mogelijkheid van de FLM om te communiceren "
+"met de Flukso server. Van links naar rechts zijn deze LEDs:"
+
+#: ../../fluksometer.rst:78
+msgid "Wifi"
+msgstr "Wifi"
+
+#: ../../fluksometer.rst:77
+msgid ""
+"If the  wifi interface is enabled, the wifi LED will light up when the "
+"wireless connection is succesfully established. Network traffic crossing "
+"the wifi interface will trigger a blinking LED."
+msgstr ""
+"Indien de wifi interface wordt gebruikt, zal de wifi LED oplichten wanneer "
+"de draadloze connectie met succes kan worden opgezet. Netwerk verkeer op de "
+"wifi interface zal de wifi LED doen knipperen."
+
+#: ../../fluksometer.rst:82
+msgid "Ethernet"
+msgstr "Ethernet"
+
+#: ../../fluksometer.rst:81
+msgid ""
+"Both ethernet LED will be on when their respective ethernet links, "
+"WAN/LAN, are established. This can either be a 10baseT or 100baseTX link "
+"in full- or half-duplex mode."
+msgstr ""
+"Beide ethernet LEDs zullen oplichten wanneer hun respectievelijke ethernet "
+"verbindingen, WAN en LAN, tot stand zijn gebracht. Dit kan zowel een 10baseT "
+"of 100baseT zijn. in full- of half-duplex mode."
+
+#: ../../fluksometer.rst:85
+msgid "Globe"
+msgstr "Wereldbol"
+
+#: ../../fluksometer.rst:85
+msgid ""
+"After the Fluksometer has finished its boot sequence, the globe LED will "
+"be on when it can connect to the Flukso server via MQTT/SSL."
+msgstr ""
+"Nadat de Fluksometer is opgestart zal de wereldbol LED oplichten wanneer "
+"hij zich met de Flukso server kan verbinden via MQTT/SSL."
+
+#: ../../fluksometer.rst:96
+msgid "Heartbeat"
+msgstr "Hartslag"
+
+#: ../../fluksometer.rst:88
+msgid ""
+"The heartbeat LED is positioned right next to the globe led.  While the "
+"globe LED informs us about the status of the Fluksometer’s external "
+"communication, the heartbeat LED allows us to monitor the Fluksometer’s "
+"internal health. This LED will be on when the sensor board is running its"
+" firmware. From the moment the flx daemon is started during the boot "
+"sequence, it will ping the sensor board every second. Each ping triggers "
+"a blink of this LED, thus mimicking a real heartbeat. Hence, a "
+"’heartbeat’ is an indication of fully booted Fluksometer, an active flx "
+"daemon, a sensor board running its firmware and proper communication "
+"between the main board and sensor board."
+msgstr ""
+"De hartslag LED bevindt zich net naast de wereldbol LED. Informeert de "
+"wereldbol LED ons over de status van de externe communicatie van de "
+"Fluksometer, dan laat de hartslag LED ons toe om de intere gezondheid "
+"van de Fluksometer te verifiëren. Deze LED zal oplichten wanneer het "
+"sensor bord z'n firmware draait. Wanneer de flx daemon is opgestart tijdens "
+"de boot sequentie dan zal hij vanaf dan het sensor bord elke seconde pingen. "
+"Elke ping veroorzaakt een knippering van de LED om zodoende een echte "
+"hartslag na te bootsen. Een hartslag is dus de indicatie van een volledig "
+"opgestarte Fluksometer, een actieve flx daemon, een sensor bord dat z'n "
+"firmware draait en een correcte communicatie tussen hoofd- en dochterbord."
+
+#: ../../fluksometer.rst:101
+msgid "Power"
+msgstr "Voeding"
+
+#: ../../fluksometer.rst:99
+msgid ""
+"The power LED is directly connected to the internal 3.3V supply. A "
+"burning LED indicates that power has been applied to the device and the "
+"internal 3.3V voltage regulator is working properly."
+msgstr ""
+"De voeding LED is direct verbonden met de interne 3.3V voeding. Een "
+"opgelichte LED geeft weer dat de voeding is aangesloten aan het apparaat en "
+"dat de interne 3.3V spanningsregulator correct functioneert."
+

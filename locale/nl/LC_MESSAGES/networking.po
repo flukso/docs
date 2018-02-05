@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Flukso bvba
+# This file is distributed under the same license as the Flukso package.
+# FIRST AUTHOR <bart@flukso.net>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flukso 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-03 13:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <bart@flukso.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../networking.rst:3
+msgid "Networking"
+msgstr "Netwerking"
+
+#: ../../networking.rst:6
+msgid "wifi"
+msgstr "wifi"
+
+#: ../../networking.rst:8
+msgid "See :ref:`wifi` of the quickstart guide."
+msgstr "Zie :ref:`wifi` van de snelle start gids."
+
+#: ../../networking.rst:11
+msgid "ethernet"
+msgstr "ethernet"
+
+#: ../../networking.rst:13
+msgid ""
+"To network the Fluksometer in ethernet mode, connect the ethernet cable "
+"to the WAN port. Select the ethernet option on the network configuration "
+"page."
+msgstr ""
+"Om de Fluksometer in ethernet mode te netwerken, verbind je de ethernet kabel "
+"met de WAN poort. Selecteer de ethernet optie op de netwerk "
+"configuratiepagina."
+
+#: ../../networking.rst:21
+msgid "3G"
+msgstr "3G"
+
+#: ../../networking.rst:23
+msgid ""
+"When wifi or ethernet are not a viable networking option you can insert a"
+" 3G stick into the Fluksometer's USB port. Make sure to power the FLM "
+"with the provided 15V AC power supply."
+msgstr ""
+"Wanneer wifi of ethernet geen geschikte netwerk optie zijn dan is er de "
+"optie om een 3G stick aan de USB poort van de Fluksometer te koppelen. Zorg "
+"ervoor dat de FLM wordt gevoed vanuit de 15V AC adapter."
+
+#: ../../networking.rst:31
+msgid ""
+"Configure the APN and pincode on the network page. Username and password "
+"may be required for certain providers."
+msgstr ""
+"Stel de APN en pincode in op de netwerkpagina. Gebruikersnaam en paswoord "
+"kunnen vereist zijn door bepaalde providers."
+

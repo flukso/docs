@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Flukso bvba
+# This file is distributed under the same license as the Flukso package.
+# FIRST AUTHOR <bart@flukso.net>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flukso 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-03 13:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <bart@flukso.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../current_clamps.rst:3
+msgid "Current Clamps"
+msgstr "Stroomklemmen"
+
+#: ../../current_clamps.rst:5
+msgid ""
+"Flukso offers four types of FLS06 current clamps: 50A, 100A, 250A and "
+"500A. The clamp type required for a specific installation depends on the "
+"maximum current allowed through each wire. This value can be obtained by "
+"verifying the value printed on the corresponding circuit breaker. "
+"One/three 50A current clamp(s) will suffice for residential "
+"installations."
+msgstr ""
+"Flukso biedt vier types FLS06 stroomklemmen aan: 50A, 100A, 250A en 500A. "
+"Het voor een specifieke installatie benodigde klem type hangt af van de "
+"maximale stroom die door de draden kan vloeien. Deze waarde kan worden "
+"afgelezen van de hoofdzekering. Een of drie stroomklemmen van 50A volstaan "
+"voor residentiële installaties."
+
+#: ../../current_clamps.rst:15
+msgid ""
+"Consult :ref:`step_2` of the quickstart section for detailed installation"
+" instructions."
+msgstr ""
+"Raadpleeg :ref:`step_2` van de snelle start sectie voor gedetailleerde "
+"instructies m.b.t. de installatie"
+
+#: ../../current_clamps.rst:18
+msgid ""
+"For a 3-phase setup you can choose to bundle the measurements of the "
+"three individual phases into a single reading. Select the 'port 1 + port "
+"2 + port 3' option in the math dropdown menu, then press save on the "
+"bottom of the page."
+msgstr ""
+"Bij een driefazige opstelling kan je kiezen om de metingen van de drie "
+"individuele fazen te bundelen in een enkele uitlezing. Selecteer hiertoe "
+"de 'port 1 + port 2 + port 3' optie in het math menu. Druk vervolgens op "
+"de save knop onderaan de pagina."

@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Flukso bvba
+# This file is distributed under the same license as the Flukso package.
+# FIRST AUTHOR <bart@flukso.net>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flukso 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-03 13:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <bart@flukso.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../water_probe.rst:4
+msgid "Water Probe"
+msgstr "Water Probe"
+
+#: ../../water_probe.rst:6
+msgid ""
+"The Kent/Elster V100 water meter contains a magnet mounted on the last "
+"counter digit as well. A black plastic cap can be found on the side of "
+"the meter."
+msgstr ""
+"De Kent/Elster V100 watermeter heeft ook een magneet die aan de laatste "
+"digit van het telwerk is bevestigd. Een zwarte plastic dop bevindt zich "
+"aan de zijkant van de meter."
+
+#: ../../water_probe.rst:13
+msgid ""
+"Remove the cap. Two cavities will become visible. Insert the FLS02-T1 "
+"water probe all the way into the biggest cavity."
+msgstr ""
+"Verwijder de dop. Twee holtes zullen zichtbaar worden. Schuif de FLS02-T1 "
+"water probe zo ver mogelijk in de grootste holte."
+
+#: ../../water_probe.rst:20
+msgid "Secure the probe with a plastic cable tie."
+msgstr "Bevestig de probe met een plastic kabelbinder."
+
+#: ../../water_probe.rst:26
+msgid ""
+"Configure the FLM pulse port's meter constant to 0.5L per pulse for this "
+"specific type of water meter."
+msgstr ""
+"Stel de meterconstante van de FLM puls poort in op 0.5L per puls voor dit "
+"specifiek type watermeter."
+

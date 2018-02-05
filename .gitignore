@@ -1,3 +1,5 @@
 _static/orig
 _build
 
+*.mo
+*.swp

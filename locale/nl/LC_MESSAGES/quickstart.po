@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Flukso bvba
+# This file is distributed under the same license as the Flukso package.
+# FIRST AUTHOR <bart@flukso.net>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flukso 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-03 13:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <bart@flukso.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../quickstart.rst:3
+msgid "Quickstart"
+msgstr "Snelle start"
+
+#: ../../quickstart.rst:5
+msgid ""
+"This quickstart will guide you through the installation steps that should"
+" lead to your Fluksometer's [FLM] successful deployment. Please consult "
+"the troubleshooting chapter if you experience any installation "
+"difficulties."
+msgstr ""
+"Deze snelle-start gids neemt je mee door de installatiestappen die tot de "
+"succesvolle installatie van de Fluksometer [FLM] leiden. Je kan steeds "
+"het hoofdstuk 'probleem oplossen' raadplegen indien je moeilijkheden "
+"ondervindt bij de installatie."
+
+#: ../../quickstart.rst:9
+msgid ""
+"Please consult a qualified electrician if you are unsure about any step "
+"in the installation process."
+msgstr ""
+"Gelieve een gekwalificeerde electricien te raadplegen indien je onzeker bent "
+"over eender welke stap in het installatieproces."
+
+#: ../../quickstart.rst:13
+msgid "step 1: secure the Fluksometer"
+msgstr "stap 1: bevestig de Fluksometer"
+
+#: ../../quickstart.rst:14
+msgid ""
+"Find a suitable location near the fuse box to install the FLM. Use the "
+"rear mounting holes to fix the Fluksometer to the wall. The cardboard "
+"inside the Fluksometer packaging will double as a drill template. "
+"Alternatively, strap the FLM with a plastic cable tie."
+msgstr ""
+"Vind een geschikte locatie in de buurt van de zekeringenkast om de FLM te "
+"installeren. Gebruik de montagegaten in de achterzijde om de Fluksometer aan "
+"de de muur te bevestigen. Het karton binnenin de verpakking van de "
+"Fluksometer doet ook dienst als boormal. Je kan ook de FLM met een plastic "
+"kabelbinder bevestigen."
+
+#: ../../quickstart.rst:26
+msgid "step 2: attach the current clamps"
+msgstr "stap 2: bevestig de stroomklemmen"
+
+#: ../../quickstart.rst:27
+msgid ""
+"For safety reasons, switch off the main electricity supply. Within the "
+"fuse box, attach a current clamp to each of the live, non-neutral wires "
+"running from the electricity meter. Close the clamp firmly. You should "
+"hear a slight click. The lip should lie flush with the clamp's body. In "
+"the case of a 3-phase system, make sure all clamps close in the same "
+"direction."
+msgstr ""
+"Schakel om veiligheidsredenen de hoofschakelaar van de elektriciteitstoevoer "
+" af. Bevestig binnenin de zekeringenkast een stroomklem rond elke "
+"stroomvoerende, niet-neutrale draad die van de elektriciteitsmeter toekomt. "
+"Sluit de klem stevig. Je zou een lichte klik moeten horen. De lip van de klem "
+"dient vlak te liggen met het lichaam van de klem. Zorg er bij een driefasig "
+"systeem voor dat alle klemmen in dezelfde richting sluiten."
+
+#: ../../quickstart.rst:37
+msgid "single-phase electrical system"
+msgstr "enkelfasig elektrisch systeem"
+
+#: ../../quickstart.rst:43
+msgid "three-phase electrical system"
+msgstr "driefasig elektrisch systeem"
+
+#: ../../quickstart.rst:45
+msgid ""
+"The live wire should be fully insulated. Never attach the clamp to a non-"
+"insulated live wire!"
+msgstr ""
+"De stroomvoerende draden moeten volledig geïsoleerd zijn. Verbind de klem "
+"nooit met een niet-geïsoleerde draad!"
+
+#: ../../quickstart.rst:49
+msgid "step 3: connect the clamps' cable"
+msgstr "stap 3: verbind de klemkabels"
+
+#: ../../quickstart.rst:50
+msgid ""
+"Connect the cable from each of the current clamps to one of the FLM's "
+"current clamp ports (ports 1,2 or 3). Take care of connecting the black "
+"and red cable: red to '+', black to '-'."
+msgstr ""
+"Verbind de kabel van elke stroomklem met een van de stroomklempoorten van de "
+"FLM (poorten 1, 2 en 3). Zorg ervoor de zwarte draad met '-' en de rode "
+"draad met '+' verbonden wordt."
+
+#: ../../quickstart.rst:61
+msgid "step 4: configure wifi & ports"
+msgstr "stap 4: configureer wifi & poorten"
+
+#: ../../quickstart.rst:62
+msgid ""
+"Switch the main electricity supply back on. Power up your FLM by "
+"connecting the power plug. Wait until a heartbeat is present on the "
+"heartbeat LED. Connect your computer to the FLM's LAN ethernet port. Surf"
+" to http:\\/\\/192.168.255.1. Sign in using the default user\\/password "
+"settings. On the network tab, select the proper wireless network and fill"
+" in the corresponding security key. The globe LED should light up within "
+"one minute."
+msgstr ""
+"Schakel de hoofdschakelaar opnieuw aan. Start de FLM op door de stekker van "
+"de adapter te verbinden. Wacht tot de hartslag aanwezig is op de hartslag "
+"LED. Verbind je computer met de ethernet LAN poort van de FLM. Surf naar "
+"http:\\/\\/192.168.255.1. Meld je aan met de standaard gebruikersnaam en "
+"paswoord instellingen. Selecteer op de netwerk pagina het juiste draadloze "
+"netwerk en vul de daarmee verbonden veiligheidssleutel in. De wereldbol LED "
+"zou minder dan een minuut later moeten oplichten."
+
+#: ../../quickstart.rst:73
+msgid ""
+"Proceed to the port page and configure each of the ports you wish to use "
+"on the FLM. For a proper configuration, make sure to set the correct "
+"electrical system, i.e. single-phase or 3-phase with(out) neutral. Press "
+"the 'save' button. If applicable, temporarily disable your PV-panels. "
+"Turn on a sufficiently large electrical load. Now press the 'match "
+"phases' button."
+msgstr ""
+"Ga verder naar de poort pagina en stel elk van de poorten in die je op deze "
+"FLM wenst te gebruiken. Voor een correcte instelling dien je het gepaste "
+"elektrische systeem te selecteren, zijnde eenfasig of driefasig met/zonder "
+"neutraal. Druk op de 'save' knop. Schakel je zonnepanelen tijdelijk uit "
+"(indien van toepassing). Zet een voldoend grote elektrische last aan. "
+"Druk vervolgens op de 'match phases' knop."
+
+#: ../../quickstart.rst:84
+msgid "step 5: configure flukso.net"
+msgstr "stap 5: configureer flukso.net"
+
+#: ../../quickstart.rst:85
+msgid ""
+"Visit https:\\/\\/www.flukso.net\\/user\\/register to create an account. "
+"Then click the cogwheels [top right] -> devices tab to associate the "
+"Fuksometer's serial number with your account."
+msgstr ""
+"Bezoek https:\\/\\/www.flukso.net\\/user\\/register om een account aan te "
+"maken. Klik op de tandwielen [rechtsboven] -> devices blad om het serienummer "
+"van de Fluksometer met je account te koppelen."
+
+#: ../../quickstart.rst:93
+msgid "A first reading will be visible on the dashboard within five minutes."
+msgstr ""
+"De eerste metingen zullen binnen de vijf minuten op het dashboard te "
+"zien zijn."
+

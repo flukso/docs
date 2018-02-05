@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Flukso bvba
+# This file is distributed under the same license as the Flukso package.
+# FIRST AUTHOR <bart@flukso.net>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flukso 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-03 13:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <bart@flukso.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../index.rst:5
+msgid "Flukso documentation"
+msgstr "Flukso documentatie"
+
+#: ../../index.rst:7
+msgid ""
+"Welcome to the Flukso documentation pages! With this user guide we aim to"
+" provide you with a thorough and visual description of how to properly "
+"install and configure the Fluksometer and its sensors."
+msgstr ""
+"Welkom bij de Flukso documentatie pagina's! Met deze gebruikersgids willen we "
+"je aan de hand van een grondige en visuele beschrijving tonen hoe je een "
+"Fuksometer en z'n sensoren correct installeert en configureert."
+
+#: ../../index.rst:15
+msgid "The Fluksometer v3E"
+msgstr "De Fluksometer v3E"
+
+#: ../../index.rst:18
+msgid "user guide"
+msgstr "gebruikersgids"
+

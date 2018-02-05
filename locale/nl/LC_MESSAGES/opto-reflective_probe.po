@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Flukso bvba
+# This file is distributed under the same license as the Flukso package.
+# FIRST AUTHOR <bart@flukso.net>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flukso 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-03 13:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <bart@flukso.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../opto-reflective_probe.rst:3
+msgid "Opto-Reflective Probe"
+msgstr "Opto-Reflectieve Probe"
+
+#: ../../opto-reflective_probe.rst:5
+msgid ""
+"The FLS07A opto-reflective probe can read out gas and water meters "
+"equipped with a mirror on their dials."
+msgstr ""
+"De FLS07A opto-reflectieve probe kan zowel gas- als watermeters uitlezen "
+"indien deze met een spiegel op het telwerk zijn uitgerust."
+
+#: ../../opto-reflective_probe.rst:9
+msgid "gas meter"
+msgstr "gasmeter"
+
+#: ../../opto-reflective_probe.rst:11
+msgid ""
+"Look for a small mirror on the counter's last digit. For this specific "
+"meter the mirror can be found on the '6' digit."
+msgstr ""
+"Zoek naar een spiegeltje op de laatste digit van het telwerk. Voor deze "
+"specifieke meter kan de spiegel op de '6' digit worden gevonden."
+
+#: ../../opto-reflective_probe.rst:18
+msgid ""
+"Attach the double-sided sticker to the glass of the meter. Make sure to "
+"align the sticker so that the last digit is visible through the window."
+msgstr ""
+"Bevestig de tweezijdig klevende sticker op het glas van de meter. Zorg ervoor "
+"dat de sticker zo is opgelijnd dat de laatste digit zichtbaar is door het "
+"venster."
+
+#: ../../opto-reflective_probe.rst:25 ../../opto-reflective_probe.rst:58
+msgid "Remove the sticker's cover to expose the tape."
+msgstr ""
+"Verwijder de bovenste bescherming van de sticker om de tape bloot te "
+"stellen."
+
+#: ../../opto-reflective_probe.rst:31 ../../opto-reflective_probe.rst:64
+msgid ""
+"Align the probe's head with the outer edge of the sticker. Firmly press "
+"the probe onto the sticker."
+msgstr ""
+"Lijn de kop van de probe uit met de buitenrand van de sticker. Druk de probe "
+"stevig tegen de sticker aan."
+
+#: ../../opto-reflective_probe.rst:38
+msgid ""
+"Configure the pulse port's meter constant as detailed in the "
+":ref:`gas_probe` paragraph."
+msgstr ""
+"Stel de meterconstante van de puls poort in zoals beschreven in de "
+":ref:`gas_probe` paragraaf."
+
+#: ../../opto-reflective_probe.rst:42
+msgid "water meter"
+msgstr "watermeter"
+
+#: ../../opto-reflective_probe.rst:44
+msgid "This specific water meter has a half-moon mirror on the rotating dial."
+msgstr ""
+"Deze specifieke watermeter heeft een spiegel in de vorm van een halve maan op "
+"de roterende schijf."
+
+#: ../../opto-reflective_probe.rst:50
+msgid ""
+"Attach the double-sided sticker to the glass of the meter. The sticker's "
+"window should be mounted excentrically on the dial so that the mirror "
+"will appear below the mirror during half of the disk's full revolution."
+msgstr ""
+"Bevestig de tweezijdig klevende sticker op het glas van de meter. Het venster "
+"van de sticker moet excentrisch op de schijf worden gemonteerd zodat de "
+"spiegel onder het venster verschijnt gedurende een halve omwenteling."
+
+#: ../../opto-reflective_probe.rst:71
+msgid ""
+"Configure the pulse port's meter constant as detailed in the "
+":ref:`water_probe` paragraph. For this water meter the meter constant has"
+" to be set to 1L per pulse."
+msgstr ""
+"Stel de meterconstante van de puls poort in zoals beschreven in de "
+":ref:`water_probe` paragraaf. Voor dit type watermeter moet de meterconstante "
+"op 1L per puls worden gezet."
+

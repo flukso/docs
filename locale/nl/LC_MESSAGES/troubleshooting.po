@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, Flukso bvba
+# This file is distributed under the same license as the Flukso package.
+# FIRST AUTHOR <bart@flukso.net>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flukso 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-03 13:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <bart@flukso.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.4.0\n"
+
+#: ../../troubleshooting.rst:3
+msgid "Troubleshooting"
+msgstr "Problemen oplossen"
+
+#: ../../troubleshooting.rst:5
+msgid ""
+"This section lists a set of pages on the local configuration interface "
+"that will help you troubleshoot a Fluksometer installation."
+msgstr ""
+"Dit deel lijst een reeks pagina's van de locale configuratie-interface op "
+"die je zullen helpen om problemen tijdens een Fluksometer installatie "
+"op te lossen."
+
+#: ../../troubleshooting.rst:9
+msgid "status"
+msgstr "status"
+
+#: ../../troubleshooting.rst:11
+msgid ""
+"The status pages details system- and network-level information. Both "
+"sections should report an OK status in their top right corners. If not, "
+"an incorrect time setting and/or network issues will be reported."
+msgstr ""
+"De statuspagina toont informatie op systeem en netwerk niveau. Beide "
+"secties zouden een OK status moeten aangeven in hun rechter bovenhoek. Indien "
+"dit niet het geval is dan zullen problemen met de tijdsinstelling en/of "
+"netwerkproblemen worden gerapporteerd."
+
+#: ../../troubleshooting.rst:20
+msgid "test"
+msgstr "test"
+
+#: ../../troubleshooting.rst:22
+msgid ""
+"The test page provides further detail regarding the operational state of "
+"the Fluksometer. It's an especially useful tool when debugging network "
+"issues. The batch of tests can be re-run by pressing the 'run' button. "
+"All test should report OK. Tests 8 through 12 check whether a firewall in"
+" the local network (if present) blocks any of the required tcp/udp ports."
+" If any network ports are being blocked, please consult your network "
+"admin armed with the information from the test page."
+msgstr ""
+"De testpagina geeft meer detail weer over de operationele status van de "
+"Fluksometer. Deze pagina is een bijzonder handige tool bij het oplossen van "
+"netwerkproblemen. De reeks testen kan opnieuw worden gelopen door op de "
+"'run' knop te drukken. Alle testen zouden OK moeten weergeven. Testen 8 tot "
+"12 verifiëren of een firewall in het locale netwerk (indien aanwezig) een van "
+"de benodigde tcp/udp poorten blokkeert. Indien er ook maar een van de poorten "
+"wordt tegengehouden, raadpleeg dan je netwerk admin en overhandig hem de "
+"informatie van de testpagina."
+
+#: ../../troubleshooting.rst:35
+msgid "gauge"
+msgstr "teller"
+
+#: ../../troubleshooting.rst:37
+msgid ""
+"The gauge page renders a set of real-time metrics for each of the current"
+" clamp ports. Irms readings prove to be very useful when in doubt about "
+"the correct installation or configuration of the current clamps."
+msgstr ""
+"De tellerpagina toont een stel real-time metrieken voor elk van de "
+"stroomklempoorten. Irms uitlezingen blijken heel nuttig te zijn wanneer "
+"er twijfel is m.b.t. de installatie en configuratie van de stroomklemmen."
+
+#: ../../troubleshooting.rst:46
+msgid "mqtt"
+msgstr "mqtt"
+
+#: ../../troubleshooting.rst:48
+msgid ""
+"Sensor messages published to the on-board MQTT broker are subscribed to "
+"by the mqtt page. It will display these messages anti-chronologically. "
+"You can pauze the output of the message flow at any time to give you "
+"ample time for inspecting the reported sensor readings."
+msgstr ""
+"De mqtt pagina abonneert zich op de sensor berichten die naar de interne "
+"MQTT broker worden verzonden. Ze zal deze berichten in anti-chronologische "
+"volgorde lijsten. Je kan op elk ogenblik de stoom aan berichten pauzeren "
+"om jezelf de tijd te geven de sensorwaarden te inspecteren."
+
+#: ../../troubleshooting.rst:58
+msgid "syslog"
+msgstr "syslog"
+
+#: ../../troubleshooting.rst:60
+msgid ""
+"The syslog page shows the contents of the Linux syslog circular buffer, "
+"which might be helpful in some troubleshooting cases."
+msgstr ""
+"De syslogpagina toont de inhoud van de syslog circulaire buffer in Linux. "
+"Deze zou handig kunnen zijn voor enkele probleemgevallen."
+
